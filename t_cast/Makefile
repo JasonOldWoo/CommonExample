@@ -13,3 +13,4 @@ CXX = $(HOST)g++
 
 4:
 	$(CXX) demo4.cc -std=c++11 -Wall -O0
+
