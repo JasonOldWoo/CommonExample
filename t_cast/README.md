@@ -1,5 +1,5 @@
-please execute
+##please execute
 $ make <num>
-num -> demo$(num).cc
-then
+##num represents demo$(num).cc
+##then
 $ ./test.sh
